@@ -1,0 +1,2 @@
+Git remote allows acces to a repository that is not stored on the local machine but somewhere else. 
+It allows team members to access a project and push or pull code in order for members to contribute.
